@@ -12,7 +12,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=edisontaimu9-ui&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edisontaimu9-ui&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edisontaimu9-ui&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)
 
 ---
 
