@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Edison Taimu</h1>
 <h3 align="center">🩺 Nutrition Student × 💻 Developer | Building Clinical Nutrition Infrastructure for Malawi</h3>
+<p align="center">
+  I’m passionate about turning clinical nutrition challenges into practical digital tools for hospitals, students, and communities across Malawi.
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=BSc+Nutrition+%26+Dietetics+Honours+Student;Building+Oasis+CNST+for+clinical+nutrition;Learning+Dart+%26+Flutter;Turning+ideas+into+health+tech+solutions" />
@@ -12,9 +15,27 @@
 - 🎓 BSc Nutrition & Dietetics Honours student, pioneer cohort (2021–2026) at **Kamuzu University of Health Sciences (KUHeS)**, Malawi
 - 🏥 Completing clinical rotations at **Queen Elizabeth Central Hospital**
 - 🌱 Building the **Oasis CNST** ecosystem — tools for clinical nutrition, pediatrics & dietetics
-- 📱 Learning **Dart & Flutter** so I can build beautiful cross-platform apps
+- 📱 Actively learning **Dart & Flutter** to build fast, beautiful, cross-platform health apps
 - 📍 Based in Zomba, Malawi
 - ⚡ Fun fact: I merge code and clinical care — one commit at a time
+
+---
+
+## 📚 Currently Learning
+
+- **Dart** — language fundamentals, clean architecture, and maintainable mobile code
+- **Flutter** — responsive UI patterns and cross-platform app workflows
+- **UI/UX for health tools** — designing interfaces clinicians and patients can use quickly
+- **Product design** — translating real clinical pain points into focused software features
+
+---
+
+## 🧭 What I'm Building Next
+
+- 📱 Mobile-first nutrition and clinical workflow apps using Flutter
+- 🥗 Better health and nutrition tracking experiences for everyday users
+- 🏥 Practical digital tools that support real hospital and dietetics use-cases
+- 🌍 More accessible, Malawi-centered health tech products
 
 ---
 
