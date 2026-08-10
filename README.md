@@ -2,22 +2,23 @@
 <h3 align="center">🩺 Nutrition Student × 💻 Developer | Building Clinical Nutrition Infrastructure for Malawi</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=BSc+Nutrition+%26+Dietetics+Honours+Student;Building+Oasis+CNST+Ecosystem;Clinical+Nutrition+%2B+Software+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=BSc+Nutrition+%26+Dietetics+Honours+Student;Building+Oasis+CNST+for+clinical+nutrition;Learning+Dart+%26+Flutter;Turning+ideas+into+health+tech+solutions" />
 </p>
 
 ---
 
-### 🧑‍⚕️ About Me
+## 🚀 About Me
 
 - 🎓 BSc Nutrition & Dietetics Honours student, pioneer cohort (2021–2026) at **Kamuzu University of Health Sciences (KUHeS)**, Malawi
 - 🏥 Completing clinical rotations at **Queen Elizabeth Central Hospital**
 - 🌱 Building the **Oasis CNST** ecosystem — tools for clinical nutrition, pediatrics & dietetics
+- 📱 Learning **Dart & Flutter** so I can build beautiful cross-platform apps
 - 📍 Based in Zomba, Malawi
 - ⚡ Fun fact: I merge code and clinical care — one commit at a time
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -30,6 +31,8 @@
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -47,7 +50,7 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -88,7 +91,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edisontaimu9-ui&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
@@ -101,7 +104,7 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://github.com/edisontaimu9-ui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
