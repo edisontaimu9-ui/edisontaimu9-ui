@@ -1,134 +1,196 @@
-<h1 align="center">Hi 👋, I'm Edison Taimu</h1>
-<h3 align="center">🩺 Nutrition Graduate × 💻 Developer | Building Clinical Nutrition Infrastructure for Malawi</h3>
+<h1 align="center">Hi, I'm Edison Taimu 👋</h1>
 <p align="center">
-  I’m passionate about turning clinical nutrition challenges into practical digital tools for hospitals, clinicians, and communities across Malawi.
+  Building practical AI, digital health, and developer platform tools from Malawi 🇲🇼
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=BSc+Nutrition+%26+Dietetics+Honours+Student;Building+Oasis+CNST+for+clinical+nutrition;Learning+Dart+%26+Flutter;Turning+ideas+into+health+tech+solutions" />
+  <a href="https://github.com/edisontaimu9-ui?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/edisontaimu9-ui?style=for-the-badge"></a>
+  <a href="https://github.com/edisontaimu9-ui"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=edisontaimu9-ui&style=for-the-badge"></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 Introduction
 
-- 🎓 BSc Nutrition & Dietetics (Honours), Kamuzu University of Health Sciences (KUHeS). Graduated 26 August 2026.
-- 🏥 Completed clinical rotations at **Queen Elizabeth Central Hospital**.
-- 🌱 Building the **Oasis CNST** ecosystem — tools for clinical nutrition, pediatrics & dietetics
-- 📱 Actively learning **Dart & Flutter** to build fast, beautiful, cross-platform health apps
-- 📍 Based in Zomba, Malawi
-- ⚡ Fun fact: I merge code and clinical care — one commit at a time
+I design and build software at the intersection of **AI**, **nutrition/health technology**, and **developer infrastructure**.  
+My GitHub work shows a recurring focus on:
 
----
-
-## 📚 Currently Learning
-
-- **Dart** — language fundamentals, clean architecture, and maintainable mobile code
-- **Flutter** — responsive UI patterns and cross-platform app workflows
-- **UI/UX for health tools** — designing interfaces clinicians and patients can use quickly
-- **Product design** — translating real clinical pain points into focused software features
+- health-facing products and coaching systems
+- AI proxy and assistant backends
+- SDKs and integration tooling
+- research-oriented metabolism/energy simulation work
+- documentation and developer enablement
 
 ---
 
-## 🧭 What I'm Building Next
+## 🚀 What I Build
 
-- 📱 Mobile-first nutrition and clinical workflow apps using Flutter
-- 🥗 Better health and nutrition tracking experiences for everyday users
-- 🏥 Practical digital tools that support real hospital and dietetics use-cases
-- 🌍 More accessible, Malawi-centered health tech products
+I build end-to-end technical ecosystems that combine:
+
+- **Applications** (dashboards, web apps, coaching experiences)
+- **AI services** (proxy workers, assistant backends, MCP servers)
+- **Platform tooling** (SDKs and gateway integrations)
+- **Research/Modeling** (metabolism + energy simulation components)
+
+---
+
+## 🧠 Technical Ecosystem (from current repositories)
+
+```mermaid
+flowchart TD
+    A[Digital Health Products] --> B[Thanzi Apps & Coaching]
+    A --> C[Oasis Health Tools]
+    A --> D[Dietitian/Nutrition Projects]
+
+    B --> E[thanzi]
+    B --> F[thanzi-coach-dashboard]
+    B --> G[thanzi-coach-whatsapp]
+    B --> H[thanzi-education-generator]
+
+    C --> I[Oasis-]
+    C --> J[Oasis-ai-proxy-worker-]
+
+    D --> K[dietitianos]
+    D --> L[thanzi-guide-]
+
+    M[AI & Developer Platform] --> N[chakudya-mcp-server]
+    M --> O[chakudya-mcp-server-cloudflare]
+    M --> P[thanzi-ai-proxy]
+    M --> Q[moyocare-ai]
+
+    R[SDKs & Integrations] --> S[Chakudya-sdk]
+    R --> T[paychangu-gateway-sdk]
+
+    U[Research/Simulation] --> V[Metabolism-simulator-]
+    U --> W[energy-engine-]
+```
+
+---
+
+## ⭐ Featured Projects
+
+> Curated for technical depth, originality, ecosystem value, and clear product direction.
+
+| Project | Why it’s notable | Tech (from repo metadata/themes) | Link |
+|---|---|---|---|
+| **thanzi** | Flagship health/nutrition product direction (“Malawi’s first food & fitness tracker”). Foundational product repo in your ecosystem. | JavaScript | [thanzi](https://github.com/edisontaimu9-ui/thanzi) |
+| **chakudya-mcp-server-cloudflare** | Strong platform engineering signal: MCP + Cloudflare deployment model suggests production-minded AI tooling. | TypeScript | [chakudya-mcp-server-cloudflare](https://github.com/edisontaimu9-ui/chakudya-mcp-server-cloudflare) |
+| **chakudya-mcp-server** | Core MCP server implementation; useful for assistant/tooling interoperability and backend AI workflows. | TypeScript | [chakudya-mcp-server](https://github.com/edisontaimu9-ui/chakudya-mcp-server) |
+| **thanzi-coach-dashboard** | Operational product component for coaching workflows; complements Thanzi app layer. | JavaScript | [thanzi-coach-dashboard](https://github.com/edisontaimu9-ui/thanzi-coach-dashboard) |
+| **thanzi-coach-whatsapp** | Interesting applied integration angle: coaching through messaging channel UX. | JavaScript | [thanzi-coach-whatsapp](https://github.com/edisontaimu9-ui/thanzi-coach-whatsapp) |
+| **Chakudya-sdk** | Demonstrates reusable developer tooling mindset (not just app building). | JavaScript | [Chakudya-sdk](https://github.com/edisontaimu9-ui/Chakudya-sdk) |
+| **paychangu-gateway-sdk** | Real-world integration capability around payment/gateway abstractions. | JavaScript | [paychangu-gateway-sdk](https://github.com/edisontaimu9-ui/paychangu-gateway-sdk) |
+| **Metabolism-simulator-** | Research-oriented technical depth through domain simulation work. | Python | [Metabolism-simulator-](https://github.com/edisontaimu9-ui/Metabolism-simulator-) |
+| **energy-engine-** | Complementary computation/modeling direction aligned with health-energy analysis. | Python | [energy-engine-](https://github.com/edisontaimu9-ui/energy-engine-) |
+
+---
+
+## 🧠 Areas of Focus
+
+- **Digital Health Engineering**: nutrition, coaching, and health-professional-facing tools  
+- **Applied AI Systems**: proxy layers, assistant architecture, MCP server workflows  
+- **Developer Platform Work**: SDKs, integration abstractions, docs/tooling  
+- **Computational Research Components**: metabolism and energy simulation models  
+- **Multi-channel Product Delivery**: dashboards, web interfaces, and messaging integrations
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-Expert-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-Strong-informational?style=flat&logo=typescript&logoColor=white&color=3178C6" />
+  <img src="https://img.shields.io/badge/Python-Modeling%20%26%20Simulation-informational?style=flat&logo=python&logoColor=white&color=3776AB" />
+  <img src="https://img.shields.io/badge/HTML-Web%20Foundations-informational?style=flat&logo=html5&logoColor=white&color=E34F26" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-Workers-orange?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-Server%20Development-blueviolet?style=flat" />
+  <img src="https://img.shields.io/badge/SDK-Design%20%26%20Integration-2ea44f?style=flat" />
+  <img src="https://img.shields.io/badge/AI-Proxy%20Architecture-8A2BE2?style=flat" />
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🍲 Chakudya API</h4>
-      Malawi's first open food & nutrition database, with a RAG layer over 57+ clinical documents.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <h4>🩹 Oasis CNST</h4>
-      Clinical nutrition PWA for hospital dietetics — screening tools, PN calculator, growth charts & more.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📋 NCRS</h4>
-      Nutrition Care Registry System — ADIME notes, PDF export, multi-facility & role-based access.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <h4>🥗 Thanzi</h4>
-      Consumer nutrition tracking PWA for Malawian foods, powered by the Chakudya API.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edisontaimu9-ui&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edisontaimu9-ui&theme=github-dark&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisontaimu9-ui&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edisontaimu9-ui&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisontaimu9-ui&layout=compact&theme=transparent" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🔥 Contribution / Activity
 
-<p align="left">
-  <a href="https://github.com/edisontaimu9-ui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edisontaimu9-ui&theme=github-compact&hide_border=true" />
 </p>
 
-<p align="center">🌍 Made with 💚 in Malawi — building health tech, one commit at a time.</p>
+---
+
+## 🌐 Projects & Links
+
+- Profile Repository: [edisontaimu9-ui/edisontaimu9-ui](https://github.com/edisontaimu9-ui/edisontaimu9-ui)
+- GitHub Pages Repo: [edisontaimu9-ui/edisontaimu9-ui.github.io](https://github.com/edisontaimu9-ui/edisontaimu9-ui.github.io)
+- Documentation Work: [edisontaimu9-ui/Chakudya-docs](https://github.com/edisontaimu9-ui/Chakudya-docs)
+- Portfolio Repo: [edisontaimu9-ui/Portfolio-](https://github.com/edisontaimu9-ui/Portfolio-)
+
+---
+
+## 📚 Research / Technical Work
+
+Your repositories show active exploration in **health computation and applied AI**, especially through:
+
+- **Metabolism simulation** → [`Metabolism-simulator-`](https://github.com/edisontaimu9-ui/Metabolism-simulator-)
+- **Energy modeling engine** → [`energy-engine-`](https://github.com/edisontaimu9-ui/energy-engine-)
+- **AI health interfaces/services** → `moyocare-ai`, `thanzi-ai-proxy`, `chakudya-mcp-server*`
+
+This combination is a strong niche: **domain-aware health software + AI infrastructure**.
+
+---
+
+## 🎯 Currently Building
+
+Based on repository naming and recent project direction, your active ecosystem appears centered on:
+
+- expanding the **Thanzi** coaching/product suite
+- advancing **Chakudya MCP + SDK** platform components
+- integrating AI services into practical health workflows
+
+---
+
+## 📫 Connect
+
+- GitHub: [@edisontaimu9-ui](https://github.com/edisontaimu9-ui)
+
+---
+
+<details>
+<summary><strong>Repository Universe Considered</strong></summary>
+
+- edisontaimu9-ui
+- bizmate
+- chakudya-mcp-server-cloudflare
+- thanzi-coach-whatsapp
+- Portfolio-
+- thanzi-coach-dashboard
+- thanzi
+- chakudya-mcp-server
+- Oasis-
+- thanzi-guide-
+- Chakudya-docs
+- Oasis-ai-proxy-worker-
+- Metabolism-simulator-
+- Chakudya-sdk
+- energy-engine-
+- moyocare-ai
+- thanzi-education-generator
+- paychangu-gateway-sdk
+- dietitianos
+- ncrs-frontend
+- edisontaimu9-ui.github.io
+- thanzi-ai-proxy
+
+</details>
