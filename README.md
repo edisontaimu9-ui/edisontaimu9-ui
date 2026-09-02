@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edison Taimu</h1>
-<h3 align="center">🩺 Nutrition Student × 💻 Developer | Building Clinical Nutrition Infrastructure for Malawi</h3>
+<h3 align="center">🩺 Nutrition Graduate × 💻 Developer | Building Clinical Nutrition Infrastructure for Malawi</h3>
 <p align="center">
   I’m passionate about turning clinical nutrition challenges into practical digital tools for hospitals, students, and communities across Malawi.
 </p>
