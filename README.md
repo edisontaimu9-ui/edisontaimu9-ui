@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edison Taimu</h1>
 <h3 align="center">🩺 Nutrition Graduate × 💻 Developer | Building Clinical Nutrition Infrastructure for Malawi</h3>
 <p align="center">
-  I’m passionate about turning clinical nutrition challenges into practical digital tools for hospitals, students, and communities across Malawi.
+  I’m passionate about turning clinical nutrition challenges into practical digital tools for hospitals, clinicians, and communities across Malawi.
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 
 ## 🚀 About Me
 
-- 🎓 BSc Nutrition & Dietetics Honours student, pioneer cohort (2021–2026) at **Kamuzu University of Health Sciences (KUHeS)**, Malawi
-- 🏥 Completing clinical rotations at **Queen Elizabeth Central Hospital**
+- 🎓 BSc Nutrition & Dietetics (Honours), Kamuzu University of Health Sciences (KUHeS). Graduated 26 August 2026.
+- 🏥 Completed clinical rotations at **Queen Elizabeth Central Hospital**.
 - 🌱 Building the **Oasis CNST** ecosystem — tools for clinical nutrition, pediatrics & dietetics
 - 📱 Actively learning **Dart & Flutter** to build fast, beautiful, cross-platform health apps
 - 📍 Based in Zomba, Malawi
